@@ -1,8 +1,8 @@
-## Shannon Kirby Translation
+# Shannon Kirby Translation
 
 <img src="Head shot.jpg" alt="shannonkirbyprofile">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shannnon Kirby is an awesome translator!
 
 ### Markdown
 
